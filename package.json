@@ -1,0 +1,25 @@
+{
+  "name": "mountainmadnes2023",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "vite": "^4.0.4"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "ffmpeg": "^0.0.4",
+    "gsap": "^3.11.4",
+    "lil-gui": "^0.18.0",
+    "three": "^0.149.0",
+    "when": "^3.7.8"
+  },
+  "author": "jetson foster",
+  "license": "ISC"
+}
